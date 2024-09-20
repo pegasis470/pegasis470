@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sumant</h1>
 <h3 align="center">A passionate Machine learning engnieer and developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pegasis470&label=Profile%20views&color=0e75b6&style=flat" alt="pegasis470" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pegasis470" alt="pegasis470" /></a> </p>
 
 - 🌱 I’m currently learning **ML mathamatics and front-end using react and next js**
 
@@ -8,12 +11,15 @@
 
 - 🤝 I’m looking for help with **website designe**
 
+- 👨‍💻 All of my projects are available at [https://github.com/pegasis470](https://github.com/pegasis470)
+
 - 💬 Ask me about **Machine learning**
 
 - 📫 How to reach me **sumantdhere03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/sumant-d-a10643243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumant dhere" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,4 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pegasis470&show_icons=true&locale=en&layout=compact" alt="pegasis470" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pegasis470&show_icons=true&locale=en" alt="pegasis470" /></p>
-
