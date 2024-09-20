@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumant</h1>
-<h3 align="center">A passionate Machine learning engnieer and developer from India</h3>
+<h3 align="center">A passionate Machine learning engineer and developer from India</h3>
 
 - 🌱 I’m currently learning **ML mathamatics and front-end using react and next js**
 
