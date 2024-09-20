@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **website development projects**
 
-- 🤝 I’m looking for help with **website designe**
+- 🤝 I’m looking for help with **website design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pegasis470](https://github.com/pegasis470)
 
